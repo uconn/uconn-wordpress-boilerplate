@@ -1,0 +1,13 @@
+*.log
+.htaccess
+sitemap.xml
+sitemap.xml.gz
+www/content/advanced-cache.php
+www/content/backup-db/
+www/content/backups/
+www/content/blogs.dir/
+www/content/cache/
+www/content/upgrade/
+www/content/uploads/
+www/content/wp-cache-config.php
+.DS_Store

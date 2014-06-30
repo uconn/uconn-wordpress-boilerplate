@@ -1,0 +1,6 @@
+[submodule "vagrant"]
+	path = vagrant
+	url = git@github.com:uconn/vagrant-centos-lamp.git
+[submodule "www/wordpress"]
+	path = www/wordpress
+	url = git@github.com:WordPress/WordPress.git
