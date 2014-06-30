@@ -1,4 +1,4 @@
-# UConn Wordpress Boilerplate for Vagrant
+# Wordpress Boilerplate for Vagrant
 This configures a Vagrant box similar to what you would find in UConn's production hosting environment. This can also be used for general Wordpress development. Use this box as a starting point for your projects. It installs Wordpress as a git submodule into the project, leaving you with an empty themes folder for where you can start your theme or plugin development.
 
 __Please log any questions or issues at: [https://github.com/uconn/uconn-wordpress-boilerplate/issues](https://github.com/uconn/uconn-wordpress-boilerplate/issues)__
