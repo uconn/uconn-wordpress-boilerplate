@@ -4,3 +4,6 @@
 [submodule "www/wordpress"]
 	path = www/wordpress
 	url = git@github.com:WordPress/WordPress.git
+[submodule "www/content/plugins/uconn-banner-wp"]
+	path = www/content/plugins/uconn-banner-wp
+	url = git@github.com:uconn/uconn-banner-wp.git
