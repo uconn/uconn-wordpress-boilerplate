@@ -54,8 +54,9 @@ Vagrant.configure("2") do |config|
             "modifyvm", :id,
             "--memory", "#{data['vm']['memory']}",
             "--cpus", "#{data['vm']['cpus']}",
-            "--ioapic", "on"
-
+            "--ioapic", "on",
+            "--natdnshostresolver1", "on",
+            "--natdnsproxy1", "on"
         ]
     end
 
